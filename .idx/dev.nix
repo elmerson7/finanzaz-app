@@ -36,6 +36,7 @@
       "mtxr.sqltools"
       "RapidAPI.vscode-rapidapi-client"
       "Vue.volar"
+      "EditorConfig.EditorConfig"
     ];
 
     # Enable previews
