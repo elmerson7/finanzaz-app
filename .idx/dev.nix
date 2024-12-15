@@ -37,6 +37,9 @@
       "RapidAPI.vscode-rapidapi-client"
       "Vue.volar"
       "EditorConfig.EditorConfig"
+      "Durzn.brackethighlighter"
+      "naumovs.color-highlight"
+      "oderwat.indent-rainbow"
     ];
 
     # Enable previews
